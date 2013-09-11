@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "aaa.js",
+  "sourceRoot": "../../src/sub",
+  "sources": [
+    "aaa.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CACE,GADI,CAAN;CACE,CAAQ,CAAA,CAAR,EAAA,GAAS;CACP,EAAA,GAAA,CAAO,IAAP;CACA,EAAmB,MAAZ,IAAA;CAFT,IAAQ;CADV,GAAA;CAAA"
+}
